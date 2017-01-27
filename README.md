@@ -1,4 +1,4 @@
 # Machine-Learning-AndrewNg
-assignments of the machine learnings by Andrea Ng at Stanford University
+Assignments of the course Machine Learning by Andrew Ng at Stanford University
 
-This fold includes the 8 assignments of the Machine Learning course lectured by Andrew Ng at Coursera. 
+This fold includes 8 assignments of the Machine Learning course from Coursera lectured by Andrew Ng. 
